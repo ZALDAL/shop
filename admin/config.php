@@ -7,7 +7,7 @@ define('HTTP_SERVER', 'https://shop1-116b421cb3ab.herokuapp.com/admin/');     //
 define('HTTP_CATALOG', 'https://shop1-116b421cb3ab.herokuapp.com/');          // <-- Thay đổi cho phù hợp
 
 // DIR
-define('DIR_OPENCART', '/app/');              // <-- Đường dẫn thực tế trên máy chủ
+define('DIR_OPENCART', '/app/admin/');              // <-- Đường dẫn thực tế trên máy chủ
 define('DIR_APPLICATION', DIR_OPENCART . 'zaldal/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
