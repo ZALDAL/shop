@@ -1,4 +1,4 @@
-File config.php
+
 <?php
 // APPLICATION
 define('APPLICATION', 'Catalog');
